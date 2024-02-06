@@ -1,0 +1,5 @@
+package golued
+
+func main() {
+
+}
